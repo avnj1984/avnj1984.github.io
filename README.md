@@ -2,6 +2,7 @@
 Top of the Page
 
 ## Header 2
+<h3></h3>
 
 This is a paragraph
 
