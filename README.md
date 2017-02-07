@@ -1,8 +1,8 @@
 #header 
 Top of the Page
 
-## Header 2
-<h3></h3>
+
+<h2></h2>
 
 This is a paragraph
 
